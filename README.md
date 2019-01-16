@@ -17,4 +17,5 @@ Skylark Drones/Path_Of_Drone(from srt file).kml
 (Contains the path traced by the drone specified in the .SRT file)
 (Run it by importing it on Google Earth on chrome)
 
-Testing.ipynb is the jupyter notebook used for the entire assignment, All the rough work can be found here.
+* Testing.ipynb is the jupyter notebook used for the entire assignment, All the rough work can be found here.
+* The code can be found at Skylark Drones/Scripts/
